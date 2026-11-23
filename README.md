@@ -2,7 +2,7 @@
 
 Third-year undergraduate at the **University of Toronto** studying **Actuarial Science (Specialist) and Statistics (Major)**.
 
-I'm interested in statistical modelling, model validation, and reproducible research — especially in checking whether a model's output can actually be trusted.
+I'm interested in statistical modelling, model validation, and reproducible research, especially in checking whether a model's output can actually be trusted.
 
 ## Selected projects
 
